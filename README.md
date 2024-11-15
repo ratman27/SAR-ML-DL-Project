@@ -1,5 +1,5 @@
-# SAR-ML-DL-Project
-## SAR image colorization using Deep Learning Model
+# SAR Image Colorization using Deep Learning Model 
+
 Synthetic Aperture Radar (SAR) is a type of radar technology used to create detailed images of landscapes and objects, even in bad weather or at night. SAR image is an active microwave-based imaging. Being the wavelength longer, images are not affected by clouds, haze, and other meteorological conditions that otherwise affect visible images.
 
 ## PROBLEM: 
